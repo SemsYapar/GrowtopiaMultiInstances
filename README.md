@@ -1,2 +1,2 @@
 # GrowtopiaMultiInstance
-Abaout Bypass Growtopia one instance protection
+About Bypass Growtopia one instance protection
